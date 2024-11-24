@@ -1,0 +1,524 @@
+[29 Oct, 2024 - 17:29:29:2929] [31merror[39m: [31mMongoDB connection error:  database names cannot contain the character '/'[39m
+[29 Oct, 2024 - 17:29:56:2956] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[29 Oct, 2024 - 17:29:56:2956] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[29 Oct, 2024 - 17:29:56:2956] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[29 Oct, 2024 - 17:33:29:3329] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[29 Oct, 2024 - 17:33:29:3329] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[29 Oct, 2024 - 17:33:29:3329] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[29 Oct, 2024 - 17:39:04:394] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[29 Oct, 2024 - 17:39:04:394] [31merror[39m: [31mError:  getaddrinfo ENOTFOUND __mailtrap_smtp_host__[39m
+[29 Oct, 2024 - 17:40:19:4019] [31merror[39m: [31mUser with email or username already exists[39m
+[29 Oct, 2024 - 17:40:38:4038] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[29 Oct, 2024 - 17:40:38:4038] [31merror[39m: [31mError:  getaddrinfo ENOTFOUND __mailtrap_smtp_host__[39m
+[29 Oct, 2024 - 18:40:54:4054] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[29 Oct, 2024 - 18:40:54:4054] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[29 Oct, 2024 - 18:40:54:4054] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[29 Oct, 2024 - 18:46:03:463] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[29 Oct, 2024 - 18:46:03:463] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[29 Oct, 2024 - 18:46:03:463] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[29 Oct, 2024 - 19:02:03:23] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[29 Oct, 2024 - 19:02:03:23] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[29 Oct, 2024 - 19:02:03:23] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[29 Oct, 2024 - 19:02:16:216] [31merror[39m: [31mAssignment to constant variable.[39m
+[29 Oct, 2024 - 19:02:34:234] [31merror[39m: [31mAssignment to constant variable.[39m
+[29 Oct, 2024 - 19:03:47:347] [31merror[39m: [31mAssignment to constant variable.[39m
+[29 Oct, 2024 - 19:05:38:538] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[29 Oct, 2024 - 19:05:38:538] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[29 Oct, 2024 - 19:05:38:538] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[29 Oct, 2024 - 19:16:13:1613] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[29 Oct, 2024 - 19:16:13:1613] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[29 Oct, 2024 - 19:16:13:1613] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[29 Oct, 2024 - 19:23:30:2330] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[29 Oct, 2024 - 19:23:30:2330] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[29 Oct, 2024 - 19:23:30:2330] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[29 Oct, 2024 - 19:27:17:2717] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[29 Oct, 2024 - 19:27:17:2717] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[29 Oct, 2024 - 19:27:17:2717] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[29 Oct, 2024 - 19:36:09:369] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[29 Oct, 2024 - 19:36:09:369] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[29 Oct, 2024 - 19:36:09:369] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[30 Oct, 2024 - 09:28:02:282] [31merror[39m: [31m408FC6FC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+[30 Oct, 2024 - 09:28:02:282] [31merror[39m: [31m408FC6FC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+[30 Oct, 2024 - 09:28:02:282] [31merror[39m: [31m408FC6FC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+[30 Oct, 2024 - 09:28:02:282] [31merror[39m: [31m408FC6FC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+[30 Oct, 2024 - 09:43:01:431] [31merror[39m: [31m408FC6FC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+[30 Oct, 2024 - 09:43:01:431] [31merror[39m: [31m408FC6FC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+[30 Oct, 2024 - 09:43:01:431] [31merror[39m: [31m408FC6FC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+[30 Oct, 2024 - 09:43:01:431] [31merror[39m: [31m408FC6FC01000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+[04 Nov, 2024 - 21:07:22:722] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[04 Nov, 2024 - 21:07:22:722] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[04 Nov, 2024 - 21:07:22:722] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[04 Nov, 2024 - 21:26:29:2629] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[04 Nov, 2024 - 21:26:29:2629] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[04 Nov, 2024 - 21:26:29:2629] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 20:46:22:4622] [31merror[39m: [31mMongoDB connection error:  Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/[39m
+[08 Nov, 2024 - 20:50:13:5013] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 20:50:13:5013] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 20:50:13:5013] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 20:51:01:511] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 20:51:02:512] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 20:51:02:512] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 20:53:08:538] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 20:53:08:538] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 20:53:08:538] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 20:53:22:5322] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 20:53:22:5322] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 21:02:40:240] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 21:02:40:240] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 21:02:40:240] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 21:02:55:255] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 21:09:09:99] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 21:09:09:99] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 21:09:09:99] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 21:09:25:925] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 21:12:58:1258] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 21:12:58:1258] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 21:12:58:1258] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 21:13:09:139] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 21:15:46:1546] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 21:15:46:1546] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 21:15:46:1546] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 21:16:03:163] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 21:17:37:1737] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 21:26:10:2610] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 21:26:10:2610] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 21:26:10:2610] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 21:26:47:2647] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 21:29:43:2943] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 21:29:43:2943] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 21:29:43:2943] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 21:30:01:301] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 21:36:08:368] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 21:36:08:368] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 21:36:08:368] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 21:36:30:3630] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 21:49:40:4940] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 21:49:40:4940] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 21:49:40:4940] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 21:49:51:4951] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 21:54:08:548] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 21:54:08:548] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 21:54:08:548] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 21:54:17:5417] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 21:55:27:5527] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 21:55:27:5527] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 21:55:27:5527] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 21:55:32:5532] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 21:56:41:5641] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 21:56:41:5641] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 21:56:41:5641] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 21:57:19:5719] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 21:58:47:5847] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 21:59:05:595] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 21:59:05:595] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 21:59:05:595] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 21:59:13:5913] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 21:59:13:5913] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 22:02:24:224] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:02:24:224] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:02:24:224] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:02:31:231] [31merror[39m: [31mchatMessageCommonAggregation is not defined[39m
+[08 Nov, 2024 - 22:02:48:248] [31merror[39m: [31mchatMessageCommonAggregation is not defined[39m
+[08 Nov, 2024 - 22:03:01:31] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:03:01:31] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:03:01:31] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:03:07:37] [31merror[39m: [31mchatMessageCommonAggregation is not defined[39m
+[08 Nov, 2024 - 22:03:21:321] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:03:21:321] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:03:21:321] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:03:28:328] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 22:04:26:426] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:04:26:426] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:04:26:426] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:08:35:835] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:08:35:835] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:08:35:835] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:08:50:850] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 22:09:16:916] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:09:16:916] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:09:16:916] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:14:03:143] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:14:03:143] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:14:03:143] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:14:50:1450] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:14:50:1450] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:14:50:1450] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:16:34:1634] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:16:34:1634] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:16:34:1634] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:16:41:1641] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 22:17:00:170] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:17:00:170] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:17:00:170] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:17:49:1749] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:17:49:1749] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:17:49:1749] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:17:55:1755] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 22:18:09:189] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:18:09:189] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:18:09:189] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:19:56:1956] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:19:56:1956] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:19:56:1956] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:19:58:1958] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:19:58:1958] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:19:58:1958] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:22:50:2250] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:22:50:2250] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:22:50:2250] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:26:28:2628] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:26:28:2628] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:26:28:2628] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:29:48:2948] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:29:48:2948] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:29:48:2948] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:30:59:3059] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:30:59:3059] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:30:59:3059] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:31:32:3132] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:31:32:3132] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:31:32:3132] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:33:22:3322] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:33:22:3322] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:33:22:3322] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:37:27:3727] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:37:27:3727] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:37:27:3727] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:37:34:3734] [31merror[39m: [31mError filtering message with Hugging Face API[39m
+[08 Nov, 2024 - 22:37:54:3754] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:37:54:3754] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:37:54:3754] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:44:15:4415] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:44:15:4415] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:44:15:4415] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:44:24:4424] [31merror[39m: [31mError filtering message with Hugging Face API[39m
+[08 Nov, 2024 - 22:48:50:4850] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:48:50:4850] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:48:50:4850] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:48:54:4854] [31merror[39m: [31mError filtering message with Hugging Face API[39m
+[08 Nov, 2024 - 22:49:08:498] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:49:08:498] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:49:08:498] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:53:06:536] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:53:06:536] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:53:06:536] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:53:08:538] [31merror[39m: [31mchatMessageCommonAggregation is not defined[39m
+[08 Nov, 2024 - 22:55:05:555] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:55:05:555] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:55:05:555] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:55:51:5551] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:55:51:5551] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:55:51:5551] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:55:58:5558] [31merror[39m: [31mchatMessageCommonAggregation is not defined[39m
+[08 Nov, 2024 - 22:56:07:567] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:56:07:567] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:56:07:567] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:56:28:5628] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:56:28:5628] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:56:28:5628] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:56:47:5647] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:56:47:5647] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:56:47:5647] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:57:13:5713] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:57:13:5713] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:57:13:5713] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:57:41:5741] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:57:41:5741] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:57:41:5741] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 22:59:54:5954] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 22:59:54:5954] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 22:59:54:5954] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 23:00:54:054] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 23:00:54:054] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 23:00:54:054] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 23:01:02:12] [31merror[39m: [31mMessage content or attachment is required[39m
+[08 Nov, 2024 - 23:01:09:19] [31merror[39m: [31mMessage content or attachment is required[39m
+[08 Nov, 2024 - 23:01:22:122] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 23:01:22:122] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 23:01:22:122] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 23:01:36:136] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 23:01:36:136] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 23:01:36:136] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 23:02:12:212] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 23:02:12:212] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 23:02:12:212] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 23:02:14:214] [31merror[39m: [31mError filtering message with Hugging Face API[39m
+[08 Nov, 2024 - 23:04:35:435] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 23:04:35:435] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 23:04:35:435] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 23:04:41:441] [31merror[39m: [31mError filtering message with Hugging Face API[39m
+[08 Nov, 2024 - 23:07:35:735] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 23:07:35:735] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 23:07:35:735] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 23:08:18:818] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 23:08:18:818] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 23:08:18:818] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 23:08:30:830] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 23:08:30:830] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 23:08:30:830] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 23:10:22:1022] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 23:10:22:1022] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 23:10:22:1022] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 23:11:05:115] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 23:11:05:115] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 23:11:05:115] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 23:14:00:140] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 23:14:00:140] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 23:14:00:140] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 23:15:28:1528] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 23:15:29:1529] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 23:15:29:1529] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 23:19:59:1959] [31merror[39m: [31mError filtering content[39m
+[08 Nov, 2024 - 23:22:32:2232] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 23:22:32:2232] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 23:22:32:2232] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 23:22:50:2250] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 23:22:50:2250] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 23:22:50:2250] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[08 Nov, 2024 - 23:23:39:2339] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.0h3go.mongodb.net[39m
+[34m[39m
+[08 Nov, 2024 - 23:23:39:2339] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[08 Nov, 2024 - 23:23:39:2339] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[10 Nov, 2024 - 23:35:36:3536] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-02.0h3go.mongodb.net[39m
+[34m[39m
+[10 Nov, 2024 - 23:35:36:3536] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[10 Nov, 2024 - 23:35:36:3536] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[10 Nov, 2024 - 23:38:49:3849] [31merror[39m: [31mjwt expired[39m
+[10 Nov, 2024 - 23:38:49:3849] [31merror[39m: [31mjwt expired[39m
+[10 Nov, 2024 - 23:38:49:3849] [31merror[39m: [31mjwt expired[39m
+[10 Nov, 2024 - 23:38:49:3849] [31merror[39m: [31mjwt expired[39m
+[10 Nov, 2024 - 23:39:11:3911] [31merror[39m: [31mInvalid user credentials[39m
+[10 Nov, 2024 - 23:39:39:3939] [31merror[39m: [31mInvalid user credentials[39m
+[10 Nov, 2024 - 23:40:04:404] [31merror[39m: [31mInvalid user credentials[39m
+[10 Nov, 2024 - 23:40:21:4021] [31merror[39m: [31mUser does not exist[39m
+[10 Nov, 2024 - 23:40:51:4051] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[10 Nov, 2024 - 23:40:51:4051] [31merror[39m: [31mError:  getaddrinfo ENOTFOUND __mailtrap_smtp_host__[39m
+[10 Nov, 2024 - 23:42:21:4221] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[10 Nov, 2024 - 23:42:21:4221] [31merror[39m: [31mError:  getaddrinfo ENOTFOUND __mailtrap_smtp_host__[39m
+[11 Nov, 2024 - 12:51:35:5135] [31merror[39m: [31m78200000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+[11 Nov, 2024 - 12:51:36:5136] [31merror[39m: [31m78200000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+[11 Nov, 2024 - 12:51:48:5148] [31merror[39m: [31m78200000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+[11 Nov, 2024 - 12:51:48:5148] [31merror[39m: [31m78200000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+[11 Nov, 2024 - 12:51:55:5155] [31merror[39m: [31m78200000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+[11 Nov, 2024 - 12:51:55:5155] [31merror[39m: [31m78200000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+[11 Nov, 2024 - 12:52:08:528] [31merror[39m: [31m78200000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+[11 Nov, 2024 - 12:52:08:528] [31merror[39m: [31m78200000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+[18 Nov, 2024 - 15:30:07:307] [31merror[39m: [31mjwt expired[39m
+[18 Nov, 2024 - 15:30:07:307] [31merror[39m: [31mjwt expired[39m
+[18 Nov, 2024 - 15:30:54:3054] [31merror[39m: [31m78200000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+[18 Nov, 2024 - 15:39:04:394] [31merror[39m: [31m78200000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+[18 Nov, 2024 - 15:42:07:427] [31merror[39m: [31m78200000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+[18 Nov, 2024 - 15:47:46:4746] [31merror[39m: [31m78200000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+[18 Nov, 2024 - 16:22:34:2234] [31merror[39m: [31m78200000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+[18 Nov, 2024 - 16:27:42:2742] [31merror[39m: [31mMongoDB connection error:  Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/[39m
+[18 Nov, 2024 - 16:29:46:2946] [31merror[39m: [31mMongoDB connection error:  Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/[39m
+[18 Nov, 2024 - 16:46:08:468] [31merror[39m: [31mMongoDB connection error:  Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/[39m
+[18 Nov, 2024 - 17:10:43:1043] [31merror[39m: [31mMongoDB connection error:  Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/[39m
+[18 Nov, 2024 - 17:14:14:1414] [31merror[39m: [31mMongoDB connection error:  Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/[39m
+[18 Nov, 2024 - 17:34:46:3446] [31merror[39m: [31mMongoDB connection error:  bad auth : authentication failed[39m
+[18 Nov, 2024 - 17:40:27:4027] [31merror[39m: [31mMongoDB connection error:  bad auth : authentication failed[39m
+[18 Nov, 2024 - 19:29:14:2914] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-01.6rll8.mongodb.net[39m
+[34m[39m
+[18 Nov, 2024 - 19:29:14:2914] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[18 Nov, 2024 - 19:29:14:2914] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[18 Nov, 2024 - 19:29:45:2945] [31merror[39m: [31mUser does not exist[39m
+[18 Nov, 2024 - 19:30:05:305] [31merror[39m: [31mUser does not exist[39m
+[18 Nov, 2024 - 19:30:39:3039] [31merror[39m: [31mUser does not exist[39m
+[18 Nov, 2024 - 19:31:32:3132] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[18 Nov, 2024 - 19:31:32:3132] [31merror[39m: [31mError:  getaddrinfo ENOTFOUND __mailtrap_smtp_host__[39m
+[18 Nov, 2024 - 19:34:12:3412] [31merror[39m: [31mReceived data is not valid[39m
+[18 Nov, 2024 - 19:34:45:3445] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[18 Nov, 2024 - 19:34:45:3445] [31merror[39m: [31mError:  getaddrinfo ENOTFOUND __mailtrap_smtp_host__[39m
+[18 Nov, 2024 - 19:36:01:361] [31merror[39m: [31mError filtering content[39m
+[18 Nov, 2024 - 23:20:46:2046] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.6rll8.mongodb.net[39m
+[34m[39m
+[18 Nov, 2024 - 23:20:46:2046] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[18 Nov, 2024 - 23:20:46:2046] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[18 Nov, 2024 - 23:25:13:2513] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: cluster0-shard-00-00.6rll8.mongodb.net[39m
+[34m[39m
+[18 Nov, 2024 - 23:25:13:2513] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[18 Nov, 2024 - 23:25:13:2513] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[18 Nov, 2024 - 23:25:20:2520] [31merror[39m: [31mjwt expired[39m
+[18 Nov, 2024 - 23:25:20:2520] [31merror[39m: [31mjwt expired[39m
+[18 Nov, 2024 - 23:25:20:2520] [31merror[39m: [31mjwt expired[39m
+[18 Nov, 2024 - 23:25:20:2520] [31merror[39m: [31mjwt expired[39m
+[18 Nov, 2024 - 23:31:14:3114] [31merror[39m: [31mChat does not exist[39m
+[18 Nov, 2024 - 23:31:48:3148] [31merror[39m: [31mChat does not exist[39m
+[18 Nov, 2024 - 23:33:21:3321] [31merror[39m: [31mError filtering content[39m
+[18 Nov, 2024 - 23:33:27:3327] [31merror[39m: [31mError filtering content[39m
